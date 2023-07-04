@@ -26,6 +26,13 @@ ola
         vai
 ```
 
+## 04/07
+
+Comando para alterar entra ramificações
+```bash
+$ git switch
+```
+
 
 
 

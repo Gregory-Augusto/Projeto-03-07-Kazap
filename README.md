@@ -18,9 +18,11 @@
     
 ```
 
-* sdbdfggyryey  
-- ghedhed
-1. ghdjuftjft
+* __Maiúscula com ponto__  
+- _Itálico com ponto_
+1. Lista numeral
+
+
 
 
 

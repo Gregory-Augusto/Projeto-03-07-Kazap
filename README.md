@@ -5,6 +5,10 @@
 ```bash
     $ git init
 
-    "Criará toda a estrutura para versionar o projeto com o git, agora podemos começar a utilizar todos os outros comandos da ferramenta GIT nesse projeto!"
+    "Init -> O init inicirá"
+    "add "
+
 ```
+
+
 

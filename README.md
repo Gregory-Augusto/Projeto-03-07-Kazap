@@ -9,6 +9,7 @@
     "Descrição do add"
     "Descrição do restore"
     "Descrição do status"
+    "Descrição do commit"
     
 
 ```

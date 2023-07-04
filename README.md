@@ -6,7 +6,9 @@
     $ git init
 
     "Init -> O init inicirá"
-    "add "
+    "Descrição do add"
+    "Descrição do restore"
+   
 
 ```
 

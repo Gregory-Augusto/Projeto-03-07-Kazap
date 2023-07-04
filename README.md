@@ -8,7 +8,8 @@
     "Init -> O init inicirá"
     "Descrição do add"
     "Descrição do restore"
-   
+    "Descrição do status"
+    
 
 ```
 

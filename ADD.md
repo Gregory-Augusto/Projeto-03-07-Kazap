@@ -5,5 +5,5 @@
 ```bash
     $ git init
 
-    "O add  o nosso repositório local"
+    " arquivo add"
 ```

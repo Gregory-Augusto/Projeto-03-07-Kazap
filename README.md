@@ -12,7 +12,7 @@
     "Descrição do commit"
     "Descrição do log"
     "Descrição do diff"
-    
+    "Descrição do revert"
 
 ```
 
